@@ -3,7 +3,7 @@
 namespace MVVMDemo.Model
 {
 
-    public class StudentModel { }
+   // public class StudentModel { }
 
     public class Student : INotifyPropertyChanged
     {

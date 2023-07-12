@@ -77,7 +77,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ModelView\StudenViewModel.cs" />
-    <Compile Include="Model\StudentMode.cs" />
+    <Compile Include="Model\StudentModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
